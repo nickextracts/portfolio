@@ -1,2 +1,2 @@
-# portfolio
+# Portfolio
 Cinematography | Video Editing
